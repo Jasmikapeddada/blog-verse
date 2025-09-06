@@ -96,7 +96,7 @@ for(let key in person){
 }
 
 
-// Continue 
+// Break, Continue 
 
 console.log("\nBreak, Continue: ")
 for(let i = 5; i>=0; i--){
